@@ -35,12 +35,14 @@ public class P08_Task01_InheritanceInJava {
 		
 
 			Three g = new Three();
-			g.methodOne(); g.methodTwo();
+			g.methodOne(); 
+			g.methodTwo();
 			g.methodOne();
 			g.methodThree();
 
 			Two two = new Two (1);
-			D obj = new D(2); obj.methodFour();
+			D obj = new D(2); 
+			obj.methodFour();
 
 		}
 
